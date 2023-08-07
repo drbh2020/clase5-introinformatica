@@ -1,8 +1,8 @@
-function Hola(camada) {
+const Hola = (camada) => {
   console.log(`Hola ${camada}`);
 }
 
-function Chau(camada) {
+const Chau = (camada) => {
   console.log(`Chau ${camada}`);
 }
 
